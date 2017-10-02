@@ -3,10 +3,11 @@ Digital Technology Specialist, Bangalore, India
 +919945458300	|	sumank.paul@gmail.com
 
 ## Skills
-* Proficient with HTML5 APIs including new semantics, storage and multimedia APIs and CSS3
-* Have extensively worked with AngularJS 1.x and react.js ecosystem using ES6.
-* Have working knowledge of hapi.js and overall nodejs eco-system
-* Have decent experience in dev-ops including Docker, Jenkins, Ansible and shell script.
+*	Proficient with HTML5 APIs including new semantics, storage and multimedia APIs and CSS3
+*	Have extensively worked with AngularJS 1.x and react.js ecosystem, hapi.js and nodejs eco-system.
+*	Have decent experience of MySQL and in dev-ops including Docker, Jenkins, Ansible and shell script.
+*	Proficient in agile methodology and leading scrum teams doing continuous delivery. 
+
 
 ## Experience
 ### McKinsey Digital Labs
