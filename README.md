@@ -2,8 +2,6 @@
 Digital Technology Specialist, Bangalore, India
 +919945458300	|	sumank.paul@gmail.com
 
-~~~
-
 ## Skills
 * Proficient with HTML5 APIs including new semantics, storage and multimedia APIs and CSS3
 * Have extensively worked with AngularJS 1.x and react.js ecosystem using ES6.
