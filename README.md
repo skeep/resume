@@ -3,10 +3,10 @@ Digital Technology Specialist, Bangalore, India
 +919945458300	|	sumank.paul@gmail.com
 
 ## Skills
-*	Proficient with HTML5 APIs including new semantics, storage and multimedia APIs and CSS3
-*	Have extensively worked with AngularJS 1.x and react.js ecosystem, hapi.js and nodejs eco-system.
-*	Have decent experience of MySQL and in dev-ops including Docker, Jenkins, Ansible and shell script.
-*	Proficient in agile methodology and leading scrum teams doing continuous delivery. 
+* Proficient with HTML5 APIs including new semantics, storage and multimedia APIs and CSS3
+* Have extensively worked with AngularJS 1.x and react.js ecosystem, hapi.js and Node.js eco-system.
+* Have decent experience of MySQL, Redis and in dev-ops including Docker, Jenkins, Ansible and shell script.
+* Proficient in agile methodology, tools and leading scrum teams doing continuous integration & delivery.
 
 
 ## Experience
@@ -14,11 +14,11 @@ Digital Technology Specialist, Bangalore, India
 Bangalore, India
 Digital Technology Specialist
 2012 - Present
-* Working as an architect on-site for clients across the globe. Involved in estimation, scope management and delivery of hybrid apps & progressive web apps. Couple of them with user base of more than 25 million.
+* Working as an architect for past 3 years at clients in South-Asian & Latin American nations. Involved in estimation, scope management and delivery of hybrid apps & progressive web apps. Current engagement has user base of more than 30 million.
 * Rewrote a large financial profiling tool front-end using angular 1.4. Resulting in improvement of practice revenue by 20%. The codebase is still stable and maintained after 3 years.
 * Regularly participate in client hackathons to reimagine business process and deliver minimum viable products and have played key role in winning 3 clients.
-* Actively involved in establishing the front-end engineering practice within the organization. Responsibilities include hiring, grooming new joiners/ fresher & interns, as well as consulting other teams on architecture review, process optimization.
-* Core member of JSChannel conference (http://2017.jschannel.com/) from 2013 since beginning. Session on AngularJS directive - https://www.youtube.com/watch?v=tHe45LpaEhM
+* Actively involved in establishing the engineering practice within the firm. Responsibilities include hiring, mentoring new joiners/ fresher & interns, as well as consulting other teams on architecture review, process optimization.
+* Founder member of JSChannel conference (http://2017.jschannel.com/). Session on AngularJS directive - https://www.youtube.com/watch?v=tHe45LpaEhM
 
 
 ### Accenture	
